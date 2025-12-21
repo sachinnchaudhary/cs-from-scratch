@@ -1,0 +1,1 @@
+## Insertion Sort: Insertion sort grows a sorted prefix by temporarily removing the next element (creating a hole), sliding larger elements right to move the hole leftward, and restoring order by inserting the element into its unique valid position leaving the rest of the array untouched.
